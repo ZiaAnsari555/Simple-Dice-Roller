@@ -1,31 +1,32 @@
 
 ---
 
-## **Simple Dice Roller**
+## **Simple Chatbot**
 
 ```markdown
-# Simple Dice Roller
+# Simple Chatbot
 
-A Python script that simulates the rolling of a dice and prints the result.
+A Python chatbot that responds to a few simple user inputs with predefined responses.
 
 ## Overview
 
-This program generates a random number between 1 and 6 to simulate the rolling of a standard dice. It is useful for any game that requires dice rolls.
+This simple Python chatbot responds to user inputs based on a few basic conditions. It can handle a few common questions and replies with predefined responses.
 
 ## How to Use
 
 1. Run the script.
-2. The program will randomly select a number between 1 and 6 and display the result.
+2. Type a message to the chatbot.
+3. The chatbot will respond with a predefined answer based on your input.
 
 ## Features
 
-- Simulates rolling a 6-sided dice.
-- Simple and easy to use.
+- Responds to "hello" and "how are you" queries.
+- Can be extended with more responses.
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dice-roller.git
-cd dice-roller
+git clone https://github.com/your-username/simple-chatbot.git
+cd simple-chatbot
